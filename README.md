@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jpr-otter
 
 - 👀 I’m interested in generative art, physics, philosophy, biotech, transhumanism
-- 🌱 I’m currently learning java, processing and python
-- 💞️ I’m looking to collaborate on enzyme design
+- 🌱 I’m always learning java,rust, processing and python
+- 💞️ I’m looking for to collaborate on enzyme design
 - 📫 How to reach me ...
 
 <!---
