@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in generative art, physics, philosophy, biotech, transhumanism
 - 🌱 I’m always learning java,rust, processing and python
-- 💞️ I’m looking for to collaborate on enzyme design
+- 💞️ I’m looking for collaboration on enzyme design
 - 📫 How to reach me ...
 
 <!---
