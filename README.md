@@ -1,11 +1,24 @@
-- 👋 Hi, I’m @jpr-otter
+# 👋 Hallo, ich bin @jpr-otter
 
-- 👀 I’m interested in generative art, physics, philosophy, biotech, transhumanism
-- 🌱 I’m always learning java,rust, processing and python
-- 💞️ I’m looking for collaboration on enzyme design
-- 📫 How to reach me ...
+### 💻 Fullstack Software Developer | .NET & Angular
 
-<!---
-jpr-otter/jpr-otter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Ich bin ein leidenschaftlicher Entwickler mit Fokus auf robuster Backend-Logik und modernen Frontend-Architekturen. Aktuell arbeite ich professionell an der Migration von Legacy-Systemen sowie der Optimierung und Digitalisierung intralogistischer Prozesse.
+
+---
+
+### 🛠 Tech-Stack & Expertise
+
+- **Sprachen:** C#, TypeScript, JavaScript (und experimentell in Rust und Python)
+- **Frameworks:** .NET (Core), Angular, Vue
+- **DevOps:** Azure DevOps Pipelines (CI/CD), Git, Release Management
+
+---
+
+### 🔬 Wo Wissenschaft und Kunst auf Code trifft
+Abseits der kommerziellen Entwicklung gilt mein Interesse komplexen Systemen und der Schnittstelle zwischen Biologie und Informatik.
+
+- 🌱 **Current Focus:** Vertiefung von Algorithmen für In-silico-Design und Protein-Engineering, AlphaFold und Erkenntnisse des BakerLab.
+- 🎨 **Generative Art:** Experimente mit Processing und Python zur Visualisierung komplexer Strukturen.
+- 🦀 **Learning:** Aktuell lerne ich Rust, um Performance-kritische Systeme besser zu verstehen.
+
+---
