@@ -31,7 +31,7 @@ Beyond commercial development, I am fascinated by **complex systems** and the in
 ---
 
 ### 📈 GitHub Activities
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpr-otter&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpr-otter&layout=compact&theme=vision-friendly-dark&count_private=true)
 
 ---
 
