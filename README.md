@@ -20,18 +20,23 @@
 
 ---
 
-### 🔬 Where Science and Art Meet Code
+### 📊 Areas of Focus & Expertise
 
-Beyond commercial development, I am fascinated by **complex systems** and the intersection of biology and computer science.
+My work bridges the gap between scalable enterprise software and complex computational research.
 
-* 🌱 **Current Focus:** Deepening my understanding of algorithms for in-silico design, protein engineering, **AlphaFold**, and research from **BakerLab**.
-* 🎨 **Generative Art:** Experimenting with **Processing** and **Python** to visualize complex structures.
-* 🦀 **Learning:** Currently diving into **Rust** to better understand performance-critical systems.
+* **Software Engineering:** Building robust **.NET backend services** and responsive **Angular/Ionic** frontends.
+* **System Migration:** Specialized in transitioning **legacy WinCE systems** to modern Android platforms and optimizing intralogistics workflows.
+* **Computational Biology:** Researching **in-silico protein design**, folding algorithms (AlphaFold), and insights from **BakerLab**.
 
 ---
 
-### 📈 GitHub Activities
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpr-otter&layout=compact&theme=vision-friendly-dark&count_private=true)
+### 🔬 Beyond Commercial Code: Science & Art
+
+I am fascinated by complex systems and where biology meets computer science. This drives my personal projects and continuous learning:
+
+* 🎨 **Generative Art:** Experimenting with **Processing** and **Python** to visualize complex biological and mathematical structures.
+* 🦀 **Systems Programming:** Currently diving into **Rust** to build performance-critical tools for data-heavy applications.
+* 🌱 **Current Study:** Deepening my understanding of protein engineering and de novo design patterns.
 
 ---
 
