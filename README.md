@@ -1,24 +1,20 @@
-# 👋 Hallo, ich bin @jpr-otter
+👋 Hi, I’m @jpr-otter
 
-### 💻 Fullstack Software Developer | .NET & Angular
+💻 Full-stack Software Developer | .NET & Angular
+I am a passionate developer with a focus on robust backend logic and modern frontend architectures. Currently, I work professionally on migrating legacy systems and the optimization and digitalization of intralogistics processes.
 
-Ich bin ein leidenschaftlicher Entwickler mit Fokus auf robuster Backend-Logik und modernen Frontend-Architekturen. Aktuell arbeite ich professionell an der Migration von Legacy-Systemen sowie der Optimierung und Digitalisierung intralogistischer Prozesse.
+🛠 Tech Stack & Expertise
+Languages: C#, TypeScript, JavaScript (experimenting with Rust and Python)
 
----
+Frameworks: .NET (Core), Angular, Vue, Ionic
 
-### 🛠 Tech-Stack & Expertise
+DevOps: Azure DevOps Pipelines (CI/CD), Git, Release Management
 
-- **Sprachen:** C#, TypeScript, JavaScript (und experimentell in Rust und Python)
-- **Frameworks:** .NET (Core), Angular, Vue
-- **DevOps:** Azure DevOps Pipelines (CI/CD), Git, Release Management
+🔬 Where Science and Art Meet Code
+Beyond commercial development, I am fascinated by complex systems and the intersection of biology and computer science.
 
----
+🌱 Current Focus: Deepening my understanding of algorithms for in-silico design, protein engineering, AlphaFold, and research from BakerLab.
 
-### 🔬 Wo Wissenschaft und Kunst auf Code trifft
-Abseits der kommerziellen Entwicklung gilt mein Interesse komplexen Systemen und der Schnittstelle zwischen Biologie und Informatik.
+🎨 Generative Art: Experimenting with Processing and Python to visualize complex structures.
 
-- 🌱 **Current Focus:** Vertiefung von Algorithmen für In-silico-Design und Protein-Engineering, AlphaFold und Erkenntnisse des BakerLab.
-- 🎨 **Generative Art:** Experimente mit Processing und Python zur Visualisierung komplexer Strukturen.
-- 🦀 **Learning:** Aktuell lerne ich Rust, um Performance-kritische Systeme besser zu verstehen.
-
----
+🦀 Learning: Currently diving into Rust to better understand performance-critical systems.
